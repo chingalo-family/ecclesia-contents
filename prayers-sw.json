@@ -1,6 +1,7 @@
 {
   "kind": "prayers",
   "language": "sw",
+  "status": "published",
   "prayers": [
     {
       "groupKey": "sign-of-the-cross",
